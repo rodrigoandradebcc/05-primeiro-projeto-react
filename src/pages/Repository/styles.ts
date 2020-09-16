@@ -102,7 +102,7 @@ export const Issues = styled.div`
       p {
         font-size: 18px;
         color: #a8a8b3;
-        margin-top: 4px.;
+        margin-top: 4px;
       }
     }
     svg {
